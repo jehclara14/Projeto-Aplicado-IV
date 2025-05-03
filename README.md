@@ -1,4 +1,3 @@
-
 # Projeto Aplicado IV
 
 **Tema:** Previsão e Monitoramento da Epidemia de Dengue: Uma Abordagem por Séries Temporais
