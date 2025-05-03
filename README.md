@@ -2,7 +2,6 @@
 # Projeto Aplicado IV
 
 **Tema:** Previsão e Monitoramento da Epidemia de Dengue: Uma Abordagem por Séries Temporais
-
 **Autora:** Jéssica Clara da Silva Santos  
 **Curso:** Ciência de Dados – Universidade Presbiteriana Mackenzie  
 **Professor:** Gustavo Scalabrini Sampaio
