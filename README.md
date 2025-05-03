@@ -1,7 +1,7 @@
 
 # Projeto Aplicado IV
 
-**Tema:** Previsão de Casos de Dengue em São Paulo utilizando Séries Temporais  
+**Tema:** Previsão e Monitoramento da Epidemia de Dengue: Uma Abordagem por Séries Temporais
 **Autora:** Jéssica Clara da Silva Santos  
 **Curso:** Ciência de Dados – Universidade Presbiteriana Mackenzie  
 **Professor:** Gustavo Scalabrini Sampaio
