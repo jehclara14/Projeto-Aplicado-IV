@@ -52,8 +52,8 @@ PROJETO-APLICADO-IV/
 ## 📊 Resultados
 
 - **Modelo**: ARIMA(1,1,1)
-- **MAE** (Erro Médio Absoluto): ~278
-- **RMSE** (Raiz do Erro Quadrático Médio): ~1760
+- **MAE** (Erro Médio Absoluto): ~658
+- **RMSE** (Raiz do Erro Quadrático Médio): ~2109
 - O modelo foi capaz de capturar a tendência de crescimento sazonal e prever com boa aproximação os dados recentes de 2025.
 
 ## 📄 Documentação
